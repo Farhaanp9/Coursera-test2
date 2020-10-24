@@ -1,2 +1,2 @@
 # Coursera-test2
-Coursera actual repository
+My Assignments for my course,"Html, Css, and Javascript for Web Developers", done on coursera.
